@@ -1,0 +1,2 @@
+Размер 'result.npz': 2571888 байт
+Размер 'result_compressed.npz': 273559 байт
