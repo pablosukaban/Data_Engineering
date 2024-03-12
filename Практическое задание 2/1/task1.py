@@ -1,7 +1,9 @@
 import numpy as np
 import json
 
-matrix = np.load('matrix_47.npy')
+file_name = 'matrix_47.npy'
+
+matrix = np.load(file_name)
 total_sum = np.sum(matrix)
 total_avg = np.mean(matrix)
 

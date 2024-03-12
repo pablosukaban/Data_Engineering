@@ -1,11 +1,11 @@
 from bs4 import BeautifulSoup
 import csv
 
-name = "text_5_var_47"
+file_name = "text_5_var_47"
 
 data = []
 
-with open(name, encoding="utf-8") as file:
+with open(file_name, encoding="utf-8") as file:
     soup = BeautifulSoup(file, "html.parser")
     rows = soup.select("tr")[1:]
 
@@ -20,7 +20,7 @@ with open(name, encoding="utf-8") as file:
         }
         data.append(item)
 
-with open(name + "_result", "w", encoding="utf-8", newline="") as f:
+with open(file_name + "_result", "w", encoding="utf-8", newline="") as f:
     writer = csv.writer(f, delimiter=",", quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
     for item in data:

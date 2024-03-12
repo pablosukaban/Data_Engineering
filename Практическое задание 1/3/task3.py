@@ -1,9 +1,9 @@
 import math
 
-input_filename = "text_3_var_47"
+file_name = "text_3_var_47"
 threshold = 47
 
-with open(input_filename) as file:
+with open(file_name) as file:
     lines = file.readlines()
 
 all_lines = []
@@ -19,7 +19,7 @@ for line in lines:
     new_nums = [num for num in new_nums if math.sqrt(num) >= (threshold + 50)]
     all_lines.append(new_nums)
 
-output_filename = f"{input_filename}_result"
+output_filename = f"{file_name}_result"
 
 with open(output_filename, "w") as output_file:
     for row in all_lines:
