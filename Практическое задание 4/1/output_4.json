@@ -1,0 +1,602 @@
+[
+  {
+    "id": 56,
+    "name": "Чемпионат мира 1979",
+    "city": "Киев",
+    "begin": "11.02",
+    "system": "circular",
+    "tours_count": 8,
+    "min_rating": 2384,
+    "time_on_game": 15
+  },
+  {
+    "id": 12,
+    "name": "Макартур 1979",
+    "city": "Краков",
+    "begin": "15.09",
+    "system": "Swiss",
+    "tours_count": 8,
+    "min_rating": 2324,
+    "time_on_game": 21
+  },
+  {
+    "id": 59,
+    "name": "Хогевен 1950",
+    "city": "Киев",
+    "begin": "15.10",
+    "system": "Swiss",
+    "tours_count": 9,
+    "min_rating": 2299,
+    "time_on_game": 21
+  },
+  {
+    "id": 11,
+    "name": "Биль 1960",
+    "city": "Валенсия",
+    "begin": "08.10",
+    "system": "circular",
+    "tours_count": 6,
+    "min_rating": 2509,
+    "time_on_game": 23
+  },
+  {
+    "id": 44,
+    "name": "Макартур 2009",
+    "city": "Луго",
+    "begin": "16.11",
+    "system": "circular",
+    "tours_count": 9,
+    "min_rating": 2431,
+    "time_on_game": 24
+  },
+  {
+    "id": 51,
+    "name": "Сент-Луис 1956",
+    "city": "Астана",
+    "begin": "01.01",
+    "system": "circular",
+    "tours_count": 15,
+    "min_rating": 2211,
+    "time_on_game": 26
+  },
+  {
+    "id": 9,
+    "name": "Ставангер 1973",
+    "city": "Ташкент",
+    "begin": "15.03",
+    "system": "circular",
+    "tours_count": 10,
+    "min_rating": 2587,
+    "time_on_game": 27
+  },
+  {
+    "id": 31,
+    "name": "Пойковский 2006",
+    "city": "Фигерас",
+    "begin": "02.03",
+    "system": "Olympic",
+    "tours_count": 15,
+    "min_rating": 2548,
+    "time_on_game": 27
+  },
+  {
+    "id": 62,
+    "name": "Цюрих 1966",
+    "city": "Бургос",
+    "begin": "27.09",
+    "system": "Swiss",
+    "tours_count": 10,
+    "min_rating": 2421,
+    "time_on_game": 27
+  },
+  {
+    "id": 19,
+    "name": "Сент-Луис 2002",
+    "city": "Лас-Росас",
+    "begin": "16.02",
+    "system": "Olympic",
+    "tours_count": 11,
+    "min_rating": 2472,
+    "time_on_game": 28
+  },
+  {
+    "id": 13,
+    "name": "Шамкович 1997",
+    "city": "Киев",
+    "begin": "01.06",
+    "system": "Swiss",
+    "tours_count": 6,
+    "min_rating": 2411,
+    "time_on_game": 32
+  },
+  {
+    "id": 24,
+    "name": "Вейк-ан-Зее 2010",
+    "city": "София",
+    "begin": "23.03",
+    "system": "Olympic",
+    "tours_count": 9,
+    "min_rating": 2468,
+    "time_on_game": 34
+  },
+  {
+    "id": 43,
+    "name": "Алушта 1997",
+    "city": "Луарка",
+    "begin": "02.08",
+    "system": "Swiss",
+    "tours_count": 12,
+    "min_rating": 2212,
+    "time_on_game": 34
+  },
+  {
+    "id": 16,
+    "name": "Пойковский 2019",
+    "city": "Астана",
+    "begin": "12.06",
+    "system": "Olympic",
+    "tours_count": 11,
+    "min_rating": 2556,
+    "time_on_game": 35
+  },
+  {
+    "id": 3,
+    "name": "Реджо-нель-Эмилия 1960",
+    "city": "Махадаонда",
+    "begin": "02.06",
+    "system": "circular",
+    "tours_count": 8,
+    "min_rating": 2215,
+    "time_on_game": 37
+  },
+  {
+    "id": 21,
+    "name": "Sinquefield Cup 1957",
+    "city": "Алькала-де-Энарес",
+    "begin": "22.09",
+    "system": "Swiss",
+    "tours_count": 10,
+    "min_rating": 2465,
+    "time_on_game": 39
+  },
+  {
+    "id": 2,
+    "name": "Кубок мира 1965",
+    "city": "Хихон",
+    "begin": "07.11",
+    "system": "circular",
+    "tours_count": 7,
+    "min_rating": 2416,
+    "time_on_game": 42
+  },
+  {
+    "id": 20,
+    "name": "Ставангер 1994",
+    "city": "Рига",
+    "begin": "21.06",
+    "system": "circular",
+    "tours_count": 13,
+    "min_rating": 2650,
+    "time_on_game": 49
+  },
+  {
+    "id": 57,
+    "name": "Макартур 2015",
+    "city": "Загреб",
+    "begin": "13.02",
+    "system": "circular",
+    "tours_count": 10,
+    "min_rating": 2436,
+    "time_on_game": 49
+  },
+  {
+    "id": 8,
+    "name": "Sinquefield Cup 2011",
+    "city": "Трухильо",
+    "begin": "28.04",
+    "system": "Swiss",
+    "tours_count": 15,
+    "min_rating": 2495,
+    "time_on_game": 53
+  },
+  {
+    "id": 14,
+    "name": "Кубок мира 1973",
+    "city": "Артейхо",
+    "begin": "01.02",
+    "system": "Olympic",
+    "tours_count": 15,
+    "min_rating": 2283,
+    "time_on_game": 59
+  },
+  {
+    "id": 18,
+    "name": "Макартур 2002",
+    "city": "Махадаонда",
+    "begin": "14.08",
+    "system": "Swiss",
+    "tours_count": 10,
+    "min_rating": 2414,
+    "time_on_game": 59
+  },
+  {
+    "id": 42,
+    "name": "Сент-Луис 2003",
+    "city": "Мерида",
+    "begin": "10.04",
+    "system": "circular",
+    "tours_count": 8,
+    "min_rating": 2351,
+    "time_on_game": 60
+  },
+  {
+    "id": 63,
+    "name": "Ставангер 1963",
+    "city": "Хельсинки",
+    "begin": "22.04",
+    "system": "Swiss",
+    "tours_count": 6,
+    "min_rating": 2334,
+    "time_on_game": 60
+  },
+  {
+    "id": 7,
+    "name": "Цюрих 1955",
+    "city": "Москва",
+    "begin": "08.10",
+    "system": "Olympic",
+    "tours_count": 14,
+    "min_rating": 2267,
+    "time_on_game": 62
+  },
+  {
+    "id": 37,
+    "name": "Политика 1963",
+    "city": "Вроцлав",
+    "begin": "06.01",
+    "system": "Olympic",
+    "tours_count": 6,
+    "min_rating": 2331,
+    "time_on_game": 62
+  },
+  {
+    "id": 67,
+    "name": "Вейк-ан-Зее 1996",
+    "city": "Бильбао",
+    "begin": "25.12",
+    "system": "Swiss",
+    "tours_count": 14,
+    "min_rating": 2508,
+    "time_on_game": 66
+  },
+  {
+    "id": 60,
+    "name": "Пальма 2003",
+    "city": "Киев",
+    "begin": "08.08",
+    "system": "Swiss",
+    "tours_count": 15,
+    "min_rating": 2350,
+    "time_on_game": 68
+  },
+  {
+    "id": 65,
+    "name": "Вейк-ан-Зее 2012",
+    "city": "Будапешт",
+    "begin": "15.07",
+    "system": "Olympic",
+    "tours_count": 9,
+    "min_rating": 2518,
+    "time_on_game": 69
+  },
+  {
+    "id": 15,
+    "name": "Алушта 1964",
+    "city": "Тарраса",
+    "begin": "10.01",
+    "system": "circular",
+    "tours_count": 14,
+    "min_rating": 2555,
+    "time_on_game": 70
+  },
+  {
+    "id": 52,
+    "name": "Хогевен 2008",
+    "city": "Ереван",
+    "begin": "24.01",
+    "system": "Olympic",
+    "tours_count": 6,
+    "min_rating": 2312,
+    "time_on_game": 72
+  },
+  {
+    "id": 17,
+    "name": "Шамкович 2009",
+    "city": "Мурсия",
+    "begin": "26.03",
+    "system": "Olympic",
+    "tours_count": 12,
+    "min_rating": 2370,
+    "time_on_game": 74
+  },
+  {
+    "id": 27,
+    "name": "Кубок мира 2004",
+    "city": "Артейхо",
+    "begin": "06.12",
+    "system": "circular",
+    "tours_count": 11,
+    "min_rating": 2621,
+    "time_on_game": 74
+  },
+  {
+    "id": 58,
+    "name": "Балтийская цепь 1990",
+    "city": "Эль-Пуэрто-де-Санта-Мария",
+    "begin": "26.12",
+    "system": "Swiss",
+    "tours_count": 13,
+    "min_rating": 2624,
+    "time_on_game": 76
+  },
+  {
+    "id": 41,
+    "name": "Хогевен 1972",
+    "city": "Варшава",
+    "begin": "03.03",
+    "system": "circular",
+    "tours_count": 9,
+    "min_rating": 2632,
+    "time_on_game": 85
+  },
+  {
+    "id": 66,
+    "name": "Балтийская цепь 1997",
+    "city": "Самора",
+    "begin": "18.10",
+    "system": "Swiss",
+    "tours_count": 14,
+    "min_rating": 2559,
+    "time_on_game": 85
+  },
+  {
+    "id": 40,
+    "name": "Цюрих 1965",
+    "city": "Тудела",
+    "begin": "26.12",
+    "system": "circular",
+    "tours_count": 13,
+    "min_rating": 2613,
+    "time_on_game": 86
+  },
+  {
+    "id": 29,
+    "name": "Кубок мира 1964",
+    "city": "Малага",
+    "begin": "25.09",
+    "system": "Olympic",
+    "tours_count": 8,
+    "min_rating": 2294,
+    "time_on_game": 88
+  },
+  {
+    "id": 48,
+    "name": "Шамкович 1986",
+    "city": "Фигерас",
+    "begin": "08.09",
+    "system": "Swiss",
+    "tours_count": 9,
+    "min_rating": 2597,
+    "time_on_game": 94
+  },
+  {
+    "id": 36,
+    "name": "Пойковский 1959",
+    "city": "Скопье",
+    "begin": "17.07",
+    "system": "Swiss",
+    "tours_count": 12,
+    "min_rating": 2532,
+    "time_on_game": 95
+  },
+  {
+    "id": 68,
+    "name": "Хогевен 1990",
+    "city": "Краков",
+    "begin": "04.04",
+    "system": "circular",
+    "tours_count": 10,
+    "min_rating": 2579,
+    "time_on_game": 97
+  },
+  {
+    "id": 26,
+    "name": "Биль 1998",
+    "city": "Ереван",
+    "begin": "07.04",
+    "system": "Olympic",
+    "tours_count": 7,
+    "min_rating": 2444,
+    "time_on_game": 98
+  },
+  {
+    "id": 34,
+    "name": "Ставангер 1987",
+    "city": "Малага",
+    "begin": "03.09",
+    "system": "Swiss",
+    "tours_count": 8,
+    "min_rating": 2600,
+    "time_on_game": 119
+  },
+  {
+    "id": 50,
+    "name": "Балтийская цепь 1967",
+    "city": "Луарка",
+    "begin": "23.12",
+    "system": "Olympic",
+    "tours_count": 13,
+    "min_rating": 2329,
+    "time_on_game": 119
+  },
+  {
+    "id": 47,
+    "name": "Чемпионат мира 2000",
+    "city": "Сеговия",
+    "begin": "24.05",
+    "system": "Olympic",
+    "tours_count": 7,
+    "min_rating": 2632,
+    "time_on_game": 123
+  },
+  {
+    "id": 25,
+    "name": "Сент-Луис 1980",
+    "city": "Алма-Ата",
+    "begin": "09.03",
+    "system": "Olympic",
+    "tours_count": 7,
+    "min_rating": 2327,
+    "time_on_game": 127
+  },
+  {
+    "id": 64,
+    "name": "Аэрофлот Опен 1987",
+    "city": "Сантьяго-де-Компостела",
+    "begin": "06.03",
+    "system": "Olympic",
+    "tours_count": 6,
+    "min_rating": 2385,
+    "time_on_game": 127
+  },
+  {
+    "id": 6,
+    "name": "Реджо-нель-Эмилия 1961",
+    "city": "Луго",
+    "begin": "16.01",
+    "system": "Swiss",
+    "tours_count": 12,
+    "min_rating": 2582,
+    "time_on_game": 130
+  },
+  {
+    "id": 55,
+    "name": "Сент-Луис 1965",
+    "city": "Осера",
+    "begin": "24.06",
+    "system": "circular",
+    "tours_count": 12,
+    "min_rating": 2375,
+    "time_on_game": 130
+  },
+  {
+    "id": 32,
+    "name": "Ставангер 1990",
+    "city": "Мадрид",
+    "begin": "21.02",
+    "system": "Olympic",
+    "tours_count": 14,
+    "min_rating": 2411,
+    "time_on_game": 131
+  },
+  {
+    "id": 30,
+    "name": "Биль 1962",
+    "city": "Монсон",
+    "begin": "09.11",
+    "system": "Olympic",
+    "tours_count": 13,
+    "min_rating": 2386,
+    "time_on_game": 132
+  },
+  {
+    "id": 39,
+    "name": "Реджо-нель-Эмилия 2001",
+    "city": "Луарка",
+    "begin": "09.09",
+    "system": "circular",
+    "tours_count": 15,
+    "min_rating": 2335,
+    "time_on_game": 132
+  },
+  {
+    "id": 10,
+    "name": "Турнир претендентов 1987",
+    "city": "Сеговия",
+    "begin": "26.08",
+    "system": "Olympic",
+    "tours_count": 12,
+    "min_rating": 2473,
+    "time_on_game": 136
+  },
+  {
+    "id": 53,
+    "name": "Аэрофлот Опен 1959",
+    "city": "Малага",
+    "begin": "26.08",
+    "system": "Swiss",
+    "tours_count": 7,
+    "min_rating": 2256,
+    "time_on_game": 141
+  },
+  {
+    "id": 23,
+    "name": "Sinquefield Cup 1952",
+    "city": "Валенсия",
+    "begin": "10.12",
+    "system": "Swiss",
+    "tours_count": 13,
+    "min_rating": 2305,
+    "time_on_game": 148
+  },
+  {
+    "id": 54,
+    "name": "Алушта 1965",
+    "city": "Сантьяго-де-Компостела",
+    "begin": "02.05",
+    "system": "Olympic",
+    "tours_count": 9,
+    "min_rating": 2499,
+    "time_on_game": 151
+  },
+  {
+    "id": 46,
+    "name": "Шамкович 1981",
+    "city": "Барселона",
+    "begin": "24.02",
+    "system": "Swiss",
+    "tours_count": 14,
+    "min_rating": 2612,
+    "time_on_game": 152
+  },
+  {
+    "id": 35,
+    "name": "Политика 1959",
+    "city": "Семана",
+    "begin": "19.07",
+    "system": "Swiss",
+    "tours_count": 14,
+    "min_rating": 2203,
+    "time_on_game": 155
+  },
+  {
+    "id": 28,
+    "name": "Линарес 2020",
+    "city": "Навалькарнеро",
+    "begin": "15.01",
+    "system": "Olympic",
+    "tours_count": 13,
+    "min_rating": 2285,
+    "time_on_game": 157
+  },
+  {
+    "id": 5,
+    "name": "Пальма 2006",
+    "city": "Осера",
+    "begin": "01.04",
+    "system": "circular",
+    "tours_count": 15,
+    "min_rating": 2407,
+    "time_on_game": 161
+  }
+]
