@@ -1,2 +1,2 @@
-Размер 'result.npz': 2571888 байт
-Размер 'result_compressed.npz': 273559 байт
+Р Р°Р·РјРµСЂ 'result.npz': 2571888 Р±Р°Р№С‚
+Р Р°Р·РјРµСЂ 'result_compressed.npz': 273559 Р±Р°Р№С‚

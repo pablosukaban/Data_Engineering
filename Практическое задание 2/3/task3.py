@@ -41,8 +41,3 @@ msgpack_file_size = os.path.getsize('data.msgpack')
 with open('compare.txt', 'w') as file:
     file.write(f"Размер 'data.json': {json_file_size} байт\n")
     file.write(f"Размер 'data.msgpack': {msgpack_file_size} байт\n")
-
-with open('compare.txt', 'w') as file:
-    file.write(f"Размер 'data.json': {json_file_size} байт\n")
-    file.write(f"Размер 'data.msgpack': {msgpack_file_size} байт\n")
-

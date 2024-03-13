@@ -1,22 +1,21 @@
 import numpy as np
 import json
 
-file_name = 'matrix_47.npy'
+main_matrix = np.load('matrix_47.npy')
 
-matrix = np.load(file_name)
-total_sum = np.sum(matrix)
-total_avg = np.mean(matrix)
+total_sum = np.sum(main_matrix)
+total_avg = np.mean(main_matrix)
 
-main_diagonal = np.diagonal(matrix)
+main_diagonal = np.diagonal(main_matrix)
 sum_main_diagonal = np.sum(main_diagonal)
 avg_main_diagonal = np.mean(main_diagonal)
 
-side_diagonal = np.diagonal(np.flipud(matrix))
+side_diagonal = np.diagonal(np.flipud(main_matrix))
 sum_side_diagonal = np.sum(side_diagonal)
 avg_side_diagonal = np.mean(side_diagonal)
 
-max_value = np.max(matrix)
-min_value = np.min(matrix)
+max_value = np.max(main_matrix)
+min_value = np.min(main_matrix)
 
 result = {
     "sum": int(total_sum),
@@ -32,5 +31,5 @@ result = {
 with open('result.json', 'w') as json_file:
     json.dump(result, json_file)
 
-normalized_matrix = (matrix - min_value) / (max_value - min_value)
-np.save('normalized.npy', normalized_matrix)
+normalized_matrix = (main_matrix - min_value) / (max_value - min_value)
+np.save('normalized_matrix.npy', normalized_matrix)
